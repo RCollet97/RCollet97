@@ -26,6 +26,3 @@ Hi, i'm Rémi ! 👋
 
 🤝 Let's talk!
 - Contact me to discuss potential collaborations or professional opportunities. 💼✨
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRCollet97anuraghazra&show_icons=true&theme=transparent)
-
