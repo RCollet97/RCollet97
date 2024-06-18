@@ -8,7 +8,7 @@ Hi, I'm Rémi ! 👋
 - Bootstrap
 - JavaScript Vanilla
 - Hotwire: StimulusJS & TurboJS
-- SQL : ActiveRecord
+- PostgreSQL : ActiveRecord
 - Ruby on Rails
 - Cloudinary
 - Git/GitHub
