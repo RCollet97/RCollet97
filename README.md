@@ -1,7 +1,7 @@
-Hi, i'm Rémi ! 👋
+Hi, I'm Rémi ! 👋
 
 🚀 A new professional adventure 🚀
-- Former specialist educator, I've always had a passion for technology and web development. To turn this aspiration into reality, I took an intensive 9-week training course with Le Wagon.
+- Former social worker, I've always had a passion for technology and web development. To turn this aspiration into reality, I took an intensive 9 weeks training course with Le Wagon. 
 
 💻 Skills acquired
 - HTML & CSS
