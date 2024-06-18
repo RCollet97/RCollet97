@@ -25,4 +25,4 @@ Hi, I'm Rémi ! 👋
 - Having completed my training on 15 June 2024, I'm looking for opportunities as a full stack developer. Ready to join a dynamic team, learn and contribute to innovative projects.
 
 🤝 Let's talk!
-- Contact me to discuss potential collaborations or professional opportunities. 💼✨
+- Contact me to discuss potential collaborations or professional opportunities.
