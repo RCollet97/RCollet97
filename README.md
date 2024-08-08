@@ -18,8 +18,8 @@ Hi, I'm Rémi ! 👋
 - During the course, I worked on two websites project developed in a team. It was an enriching experience in project management, teamwork and adaptation.
 
 🔧 My Work
-- My first web site, inspired of the famous Airbnb site : https://github.com/NicolasLrsd/PLANET_BNB .
-- The final web site, welcome to BetEsport : https://github.com/Florenaux59/Bet_Esport .
+- My first web site, inspired of the famous Airbnb site : https://planet-bnb-24e240a59b22.herokuapp.com
+- The final web site, welcome to BetEsport : https://bet-esport-5bd52c236785.herokuapp.com
 
 🎯 Objective
 - Having completed my training on 15 June 2024, I'm looking for opportunities as a full stack developer. Ready to join a dynamic team, learn and contribute to innovative projects.
