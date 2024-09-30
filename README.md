@@ -22,7 +22,7 @@ Hi, I'm Rémi ! 👋
 - The final web site, welcome to BetEsport : https://github.com/Florenaux59/Bet_Esport
 
 🎯 Objective
-- Having completed my training on 15 June 2024, I'm looking for opportunities as a full stack developer. Ready to join a dynamic team, learn and contribute to innovative projects.
+- Since the end of my training on 15 June 2024, I've deepened my knowledge of JavaScript (Angular) and acquired the basics of Java. I'm now looking for an apprenticeship as a Java and Angular developer.
 
 🤝 Let's talk!
 - Contact me to discuss potential collaborations or professional opportunities.
